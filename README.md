@@ -41,7 +41,7 @@ Standardized layout for multi-video projects.
 
 Clone the repository:
 
-git clone https://github.com/yourname/vidioai.git
+git clone https://github.com/3lit3/vidioai.git
 cd vidioai
 
 
@@ -104,13 +104,6 @@ Index building
 Documentation consistency
 
 🌐 Documentation Index
-
-Your documentation is live at:
-
-https://gitdocify.com/readme/vidioai
-
-
-(Replace with your actual deployment URL.)
 
 🤝 Contributing
 
